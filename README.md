@@ -1,1 +1,2 @@
-# Code Templates by Kirill Eremenko and Hadelin de Ponteves, updates by Ariel Blumstein
+# Code Templates by Kirill Eremenko and Hadelin de Ponteves
+# Updates by Ariel Blumstein
